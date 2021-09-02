@@ -8,7 +8,7 @@ public class Main {
         //expressions are variables, values and operators
         double kilometers = (100 * 1.609344);
         int highScore = 50;
-        if(highScore > 50){
+        if (highScore > 50) {
             System.out.println("You got thee high ");
         }
 
@@ -19,5 +19,7 @@ public class Main {
         System.out.println("This is " +
                 " another " +
                 " still more.");
+
+
     }
 }
